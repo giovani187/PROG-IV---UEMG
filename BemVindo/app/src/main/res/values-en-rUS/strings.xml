@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Welcome to my aplication!</string>
+    <string name="texto2">"This is a test program from PROG IV class "</string>
+    <string name="image_description">Android image (\'Test\')</string>
+    <string name="app_name">BemVindo</string>
+</resources>
